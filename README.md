@@ -6,4 +6,4 @@ This is a mini Python learning project. In order to create a simple ASCII art su
 - Conditional statements
 - Basic arithmatic techniques
 
-Read the full article and code description at: 
+Read the full article and code description at: https://p-kane.medium.com/1426c82777be
